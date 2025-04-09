@@ -1,0 +1,171 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to bottom, #fddde6, #c8d6ff);
+  color: #220066;
+}
+
+.main-container {
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+.logo {
+  height: 40px;
+}
+
+.wallet-buttons {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.connect-btn,
+.disconnect-btn {
+  background: linear-gradient(to right, #ff00cc, #3333ff);
+  color: white;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.wallet-text {
+  background-color: white;
+  padding: 6px 12px;
+  border-radius: 15px;
+  font-weight: bold;
+  color: #333;
+  font-size: 0.9rem;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #6200ea;
+}
+
+.nft-image {
+  width: 280px;
+  height: auto;
+  margin: 1rem 0;
+  box-shadow: 0 0 25px #a964ff;
+  border-radius: 20px;
+  animation: pulse 2s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 25px #a964ff;
+  }
+  50% {
+    box-shadow: 0 0 45px #a964ff;
+  }
+  100% {
+    box-shadow: 0 0 25px #a964ff;
+  }
+}
+
+.action-buttons {
+  margin-top: 1.2rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
+.mint-btn,
+.metamask-btn {
+  background: linear-gradient(to right, #ff00cc, #3333ff);
+  color: white;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 24px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.success {
+  margin-top: 1rem;
+  font-weight: bold;
+  color: green;
+}
+
+.note-bar {
+  background: linear-gradient(to right, #ffa751, #ff6a6a);
+  padding: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 1rem;
+}
+
+.note-detail {
+  background-color: #fff3cd;
+  color: #664d03;
+  padding: 12px;
+  font-size: 0.95rem;
+  border: 1px solid #ffeeba;
+  margin: 0 auto;
+  max-width: 80%;
+  animation: fadeIn 0.5s ease-in-out;
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.footer {
+  position: relative;
+  background: linear-gradient(to right, #6600cc, #a000ff);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.glow {
+  color: yellow;
+  text-shadow: 0 0 10px yellow, 0 0 20px yellow;
+}
+
+.footer-maskot {
+  position: absolute;
+  right: 25px;
+  top: -80px;
+  width: 80px;
+  height: auto;
+  animation: floaty 3s ease-in-out infinite;
+}
+
+@keyframes floaty {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}

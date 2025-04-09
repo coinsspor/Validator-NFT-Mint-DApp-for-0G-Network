@@ -1,0 +1,1202 @@
+[
+    {
+        "moniker": "Gnodes",
+        "operator_address": "0gvaloper1qqqqqpaa65ulrgxxd33xwtnmkfd6700cxqcxzl",
+        "account_address": "0g1qqqqqpaa65ulrgxxd33xwtnmkfd6700c92f6hz",
+        "evm_address": "0x00000007bdd539f1a0c66c62672e7bb25baf3df8"
+    },
+    {
+        "moniker": "fmusicmc",
+        "operator_address": "0gvaloper1qpss90m3ut7m4acueq8me64tgh6kef3s56we6x",
+        "account_address": "0g1qpss90m3ut7m4acueq8me64tgh6kef3shsl90m",
+        "evm_address": "0x006102bf71e2fdbaf71cc80fbceaab45f56ca630"
+    },
+    {
+        "moniker": "KuroNode",
+        "operator_address": "0gvaloper1qruy0n3wmdx2wskst5lcsxnecf8gx9d0j8vt8j",
+        "account_address": "0g1qruy0n3wmdx2wskst5lcsxnecf8gx9d03dahj0",
+        "evm_address": "0x00f847ce2edb4ca742d05d3f881a79c24e8315af"
+    },
+    {
+        "moniker": "Sorumz",
+        "operator_address": "0gvaloper1qx2cu4r8w28232qr6t3rn9m5gtxxk8gn07nftf",
+        "account_address": "0g1qx2cu4r8w28232qr6t3rn9m5gtxxk8gnv5z475",
+        "evm_address": "0x01958e5467728ea8a803d2e239977442cc6b1d13"
+    },
+    {
+        "moniker": "0gvaild158",
+        "operator_address": "0gvaloper1qvw6uvqnr0jxvk8y839flwaaacp063pr48jfyf",
+        "account_address": "0g1qvw6uvqnr0jxvk8y839flwaaacp063prkdr435",
+        "evm_address": "0x031dae30131be46658e43c4a9fbbbdee02fd4423"
+    },
+    {
+        "moniker": "TK_VN",
+        "operator_address": "0gvaloper1qwme6max2q98wrkmcneeyjt8x4z0ankzr6es7v",
+        "account_address": "0g1qwme6max2q98wrkmcneeyjt8x4z0ankzqsgvt3",
+        "evm_address": "0x03b79d6fa6500a770edbc4f39249673544fecec2"
+    },
+    {
+        "moniker": "Lam-0G",
+        "operator_address": "0gvaloper1q32q34re49nry0j0tw04h6hvkvzmhxr0xs79ce",
+        "account_address": "0g1q32q34re49nry0j0tw04h6hvkvzmhxr0960edy",
+        "evm_address": "0x045408d479a966323e4f5b9f5beaecb305bb986f"
+    },
+    {
+        "moniker": "0gvaild176",
+        "operator_address": "0gvaloper1qnu6ssnmgred87e86mnyaq2d2l3hzcn3lszwa0",
+        "account_address": "0g1qnu6ssnmgred87e86mnyaq2d2l3hzcn3u6njgj",
+        "evm_address": "0x04f9a8427b40f2d3fb27d6e64e814d57e3716271"
+    },
+    {
+        "moniker": "Veriznode",
+        "operator_address": "0gvaloper1qaq7pznsc2psgwnz0scqwlgzhtqx73r59ds7dh",
+        "account_address": "0g1qaq7pznsc2psgwnz0scqwlgzhtqx73r5x8pzc2",
+        "evm_address": "0x0741e08a70c283043a627c30077d02bac06f4474"
+    },
+    {
+        "moniker": "0gvaild175",
+        "operator_address": "0gvaloper1ppdlfq6gtdfpsttquk5dmy45fx6jhj20ydmash",
+        "account_address": "0g1ppdlfq6gtdfpsttquk5dmy45fx6jhj20882p92",
+        "evm_address": "0x085bf483485b52182d60e5a8dd92b449b52bc94f"
+    },
+    {
+        "moniker": "0gvaild141",
+        "operator_address": "0gvaloper1p9kyq2c4akkadgjuvhe78tgpm6usc6j7cffz7w",
+        "account_address": "0g1p9kyq2c4akkadgjuvhe78tgpm6usc6j7mrc7tn",
+        "evm_address": "0x096c402b15edadd6a25c65f3e3ad01deb90c6a5e"
+    },
+    {
+        "moniker": "ennikill",
+        "operator_address": "0gvaloper1pg3vd28mthp06eak0ane4qdy29uycxk87wy4jv",
+        "account_address": "0g1pg3vd28mthp06eak0ane4qdy29uycxk8ay4f83",
+        "evm_address": "0x0a22c6a8fb5dc2fd67b67f679a81a451784c1ac7"
+    },
+    {
+        "moniker": "shachopra",
+        "operator_address": "0gvaloper1pklk8kjncjkpjlx8zdttspv50ffdzw2sx6k6qf",
+        "account_address": "0g1pklk8kjncjkpjlx8zdttspv50ffdzw2s9s8x45",
+        "evm_address": "0x0dbf63da53c4ac197cc71356b805947a52d13950"
+    },
+    {
+        "moniker": "catsmile",
+        "operator_address": "0gvaloper1p6ssdc746r29vs4p4ezaqrgs9nnr65z0ep67ym",
+        "account_address": "0g1p6ssdc746r29vs4p4ezaqrgs9nnr65z06ttz3x",
+        "evm_address": "0x0ea106e3d5d0d45642a1ae45d00d102ce63d504f"
+    },
+    {
+        "moniker": "0gvaild61",
+        "operator_address": "0gvaloper1pmw8h3jude48exafurz4m5ds7tsffxh9jc4w9a",
+        "account_address": "0g1pmw8h3jude48exafurz4m5ds7tsffxh93jyjsq",
+        "evm_address": "0x0edc7bc65c6e6a7c9ba9e0c55dd1b0f2e0949ae5"
+    },
+    {
+        "moniker": "sondvptit",
+        "operator_address": "0gvaloper1zql9rp9yp7vtfkj2lydj93vgu39jw9scs0hxym",
+        "account_address": "0g1zql9rp9yp7vtfkj2lydj93vgu39jw9scn9x63x",
+        "evm_address": "0x103e5184a40f98b4da4af91b22c588e44b271618"
+    },
+    {
+        "moniker": "hboss",
+        "operator_address": "0gvaloper1zzt8q32zyj5fqh7fs3dqmz44m9mls3yuhsyqn8",
+        "account_address": "0g1zzt8q32zyj5fqh7fs3dqmz44m9mls3yu564ux6",
+        "evm_address": "0x109670454224a8905fc9845a0d8ab5d977f8449c"
+    },
+    {
+        "moniker": "dakpluto",
+        "operator_address": "0gvaloper1zymy838twd3vzcyuz4xvnts4k2cev7slxqza9k",
+        "account_address": "0g1zymy838twd3vzcyuz4xvnts4k2cev7sl92npst",
+        "evm_address": "0x113643c4eb7362c1609c154cc9ae15b2b1967a1f"
+    },
+    {
+        "moniker": "Sr20de",
+        "operator_address": "0gvaloper1zthpgkcljwqyml6gpg278jddam08dz3nel3mxz",
+        "account_address": "0g1zthpgkcljwqyml6gpg278jddam08dz3n64q8nl",
+        "evm_address": "0x12ee145b1f93804dff480a15e3c9adeede768a33"
+    },
+    {
+        "moniker": "FJTnode",
+        "operator_address": "0gvaloper1ztmzhxu36yxm3svcjwmhkewjervrvdd9t095g7",
+        "account_address": "0g1ztmzhxu36yxm3svcjwmhkewjervrvdd9g95gar",
+        "evm_address": "0x12f62b9b91d10db8c19893b77b65d2c8d83635a5"
+    },
+    {
+        "moniker": "matalia",
+        "operator_address": "0gvaloper1zta5cv4nujm28exxyrdnm2dw2vukufg30m7enq",
+        "account_address": "0g1zta5cv4nujm28exxyrdnm2dw2vukufg3v309xa",
+        "evm_address": "0x12fb4c32b3e4b6a3e4c620db3da9ae53396e2511"
+    },
+    {
+        "moniker": "\ud83c\udfc6OshVanK\ud83c\udfc6",
+        "operator_address": "0gvaloper1znvnyu369ce43thhlh35dr0d9e78vch4tvdzf0",
+        "account_address": "0g1znvnyu369ce43thhlh35dr0d9e78vch4gxu7uj",
+        "evm_address": "0x14d932723a2e3358aef7fde3468ded2e7c7662f5"
+    },
+    {
+        "moniker": "pro-nodes75",
+        "operator_address": "0gvaloper1zk8ut8e6yw040g2xxc5e9855u88wv0td604gwd",
+        "account_address": "0g1zk8ut8e6yw040g2xxc5e9855u88wv0tde9y5ms",
+        "evm_address": "0x158fc59f3a239f57a1463629929e94e1cee63d6d"
+    },
+    {
+        "moniker": "le97",
+        "operator_address": "0gvaloper1ze3ysz8l8uvlm8tz332vwz232gpne65svfpsa6",
+        "account_address": "0g1ze3ysz8l8uvlm8tz332vwz232gpne65s0rsvg8",
+        "evm_address": "0x16624808ff3f19fd9d628c54c7095152033cea90"
+    },
+    {
+        "moniker": "kgnodes",
+        "operator_address": "0gvaloper1rfm5w99tneq8ulkl9f7f774h69d78jlcjtpt65",
+        "account_address": "0g1rfm5w99tneq8ulkl9f7f774h69d78jlc3psh0f",
+        "evm_address": "0x1a774714ab9e407e7edf2a7c9f7ab7d15be3cbf8"
+    },
+    {
+        "moniker": "molekul",
+        "operator_address": "0gvaloper1rddpjf9dn36s42w44quxkxju6tcuxzqwu9aezh",
+        "account_address": "0g1rddpjf9dn36s42w44quxkxju6tcuxzqwl0v9h2",
+        "evm_address": "0x1b5a1924ad9c750aa9d5a8386b1a5cd2f1c3080e"
+    },
+    {
+        "moniker": "node3",
+        "operator_address": "0gvaloper1rdnk9ulrdz76uzv4jh9l6nw26lnfrnwm9jvydx",
+        "account_address": "0g1rdnk9ulrdz76uzv4jh9l6nw26lnfrnwmxcaccm",
+        "evm_address": "0x1b6762f3e368bdae099595cbfd4dcad7e691cddb"
+    },
+    {
+        "moniker": "P2Pnodetop",
+        "operator_address": "0gvaloper1rj4pdw2gl7dl5zslr3rnnevfz90260yrcqex5c",
+        "account_address": "0g1rj4pdw2gl7dl5zslr3rnnevfz90260yrm2g6p9",
+        "evm_address": "0x1caa16b948ff9bfa0a1f1c4739e589115ead3c83"
+    },
+    {
+        "moniker": "Rysiman",
+        "operator_address": "0gvaloper1rkl9nhffp950agqpf73ma58g6fy3te0ufvdcf8",
+        "account_address": "0g1rkl9nhffp950agqpf73ma58g6fy3te0u2xuyu6",
+        "evm_address": "0x1dbe59dd290968fea0014fa3bed0e8d24915e5fc"
+    },
+    {
+        "moniker": "mehmetxh",
+        "operator_address": "0gvaloper1ra834d67nan692un9l8yd9kuwps8tdq72654ck",
+        "account_address": "0g1ra834d67nan692un9l8yd9kuwps8tdq7fs9fdt",
+        "evm_address": "0x1f4f1ab75e9f67a2ab932fce4696dc706075b41e"
+    },
+    {
+        "moniker": "OriginStake",
+        "operator_address": "0gvaloper1yz306wwv24d8m2zg8yujrssxs7cp2483fz0hcr",
+        "account_address": "0g1yz306wwv24d8m2zg8yujrssxs7cp24832g7td7",
+        "evm_address": "0x20a2fd39cc555a7da848393921c20687b01554f1"
+    },
+    {
+        "moniker": "Validator247",
+        "operator_address": "0gvaloper1yrxeg4symqpfv5r3p9jemkwkgm284j5xgusn6g",
+        "account_address": "0g1yrxeg4symqpfv5r3p9jemkwkgm284j5xtkp004",
+        "evm_address": "0x20cd945604d80296507109659dd9d646d47aca86"
+    },
+    {
+        "moniker": "Polkadotters",
+        "operator_address": "0gvaloper1yfn0ulqf5m35p3u6shejt039r6ec72e2xtd5qa",
+        "account_address": "0g1yfn0ulqf5m35p3u6shejt039r6ec72e29pug4q",
+        "evm_address": "0x2266fe7c09a6e340c79a85f325be251eb38f2b2a"
+    },
+    {
+        "moniker": "SIC",
+        "operator_address": "0gvaloper1ynerqnwtaxvnu0xzfhfl8h9kdp53jdlfdgwvda",
+        "account_address": "0g1ynerqnwtaxvnu0xzfhfl8h9kdp53jdlfwzlscq",
+        "evm_address": "0x24f2304dcbe9993e3cc24dd3f3dcb668691937e9"
+    },
+    {
+        "moniker": "0gvaild156",
+        "operator_address": "0gvaloper1yewrsahkdzdy5gajpzyjhwd57wna4uy56vxm96",
+        "account_address": "0g1yewrsahkdzdy5gajpzyjhwd57wna4uy5exh8s8",
+        "evm_address": "0x265c3876f6689a4a23b208892bb9b4f3a7daf094"
+    },
+    {
+        "moniker": "darksun",
+        "operator_address": "0gvaloper19g0vt6aaneedrjwty0kjn6xrhfyaf0xmck5t5s",
+        "account_address": "0g19g0vt6aaneedrjwty0kjn6xrhfyaf0xmmu9hpd",
+        "evm_address": "0x2a1ec5ebbd9e72d1c9cb23ed29e8c3ba49d4bcdb"
+    },
+    {
+        "moniker": "cepmekfamily",
+        "operator_address": "0gvaloper19dpyzueqgttdwdn2ch0p2y7rmtgr9fquvcnymj",
+        "account_address": "0g19dpyzueqgttdwdn2ch0p2y7rmtgr9fqu0jzcw0",
+        "evm_address": "0x2b4241732042d6d7366ac5de1513c3dad032a41c"
+    },
+    {
+        "moniker": "Chielnode",
+        "operator_address": "0gvaloper190a4un9msyrkaygpqtl6chtm9z2jv6tgz7c8ss",
+        "account_address": "0g190a4un9msyrkaygpqtl6chtm9z2jv6tgp5fm9d",
+        "evm_address": "0x2bfb5e4cbb81076e910102ffac5d7b2895266968"
+    },
+    {
+        "moniker": "HUNG",
+        "operator_address": "0gvaloper19uvht3l62ld3un74jpmkywuycrg9etqes70726",
+        "account_address": "0g19uvht3l62ld3un74jpmkywuycrg9etqen57zl8",
+        "evm_address": "0x2f1975c7fa57db1e4fd59077623b84c0d05cac19"
+    },
+    {
+        "moniker": "0gvaild38",
+        "operator_address": "0gvaloper197q2k26l4y28f3kfep55wujztqcjm57xd4cjg6",
+        "account_address": "0g197q2k26l4y28f3kfep55wujztqcjm57xwlfwa8",
+        "evm_address": "0x2f80ab2b5fa91474c6c9c86947724258312dd3c6"
+    },
+    {
+        "moniker": "Nodes Hub \ud83d\udee1\ufe0f 100% Slash Protected \ud83d\udee1\ufe0f",
+        "operator_address": "0gvaloper1xdlntvhq0vqd9yrxf2p3dvmk2v8p43e5taw8hq",
+        "account_address": "0g1xdlntvhq0vqd9yrxf2p3dvmk2v8p43e5ghlmza",
+        "evm_address": "0x337f35b2e07b00d290664a8316b376530e1ac734"
+    },
+    {
+        "moniker": "0xgilang-node",
+        "operator_address": "0gvaloper1x3495t3evluwezs59kzydr8e3sdj5qq99ryuvd",
+        "account_address": "0g1x3495t3evluwezs59kzydr8e3sdj5qq9xf4qes",
+        "evm_address": "0x346a5a2e3967f8ec8a142d84468cf98c1b2a0005"
+    },
+    {
+        "moniker": "Dkro\ud83d\udda5\ud83e\udd18",
+        "operator_address": "0gvaloper1xk67j6hett7jfxnanh5qppxa2pjadap8qzct97",
+        "account_address": "0g1xk67j6hett7jfxnanh5qppxa2pjadap8rgfhsr",
+        "evm_address": "0x35b5e96af95afd249a7d9de80084dd5065d6f427"
+    },
+    {
+        "moniker": "DNKNode",
+        "operator_address": "0gvaloper1xk7cl2dys0xc6svwmqkmu5ph6jfyvh2ete9jgr",
+        "account_address": "0g1xk7cl2dys0xc6svwmqkmu5ph6jfyvh2egn5wa7",
+        "evm_address": "0x35bd8fa9a483cd8d418ed82dbe5037d492465d59"
+    },
+    {
+        "moniker": "akira",
+        "operator_address": "0gvaloper1xhyae80n6ecq8hxpe2jjfl55lscpa9re77qduv",
+        "account_address": "0g1xhyae80n6ecq8hxpe2jjfl55lscpa9rea533f3",
+        "evm_address": "0x35c9dc9df3d67003dcc1caa524fe94fc301e9479"
+    },
+    {
+        "moniker": "MHLX_Node",
+        "operator_address": "0gvaloper1x7yzx9c6lx2wmhz0kg8ngutufw9mt9jtqd9k9f",
+        "account_address": "0g1x7yzx9c6lx2wmhz0kg8ngutufw9mt9jtr852s5",
+        "evm_address": "0x378823171af994eddc4fb20f34717c4b8bb5964b"
+    },
+    {
+        "moniker": "cryptomolot",
+        "operator_address": "0gvaloper18yjt22fsu7walg4a9wawlg28uvnurl3yuvxdwx",
+        "account_address": "0g18yjt22fsu7walg4a9wawlg28uvnurl3ylxh3mm",
+        "evm_address": "0x3924b52930e79ddfa2bd2bbaefa147e327c1fe24"
+    },
+    {
+        "moniker": "BlockHub",
+        "operator_address": "0gvaloper182y566d8rgdzepxgk90syru8n3f7tglrxd76n4",
+        "account_address": "0g182y566d8rgdzepxgk90syru8n3f7tglr980xxg",
+        "evm_address": "0x3a894d69a71a1a2c84c8b15f020f879c53e5a3e3"
+    },
+    {
+        "moniker": "EssentialEcho",
+        "operator_address": "0gvaloper18d4xy5z4ypgqv9xzv07zl4fj3ykgr7gs74x93t",
+        "account_address": "0g18d4xy5z4ypgqv9xzv07zl4fj3ykgr7gsalheyk",
+        "evm_address": "0x3b6a62505520500614c263fc2fd532892c81f910"
+    },
+    {
+        "moniker": "0gvaild136",
+        "operator_address": "0gvaloper18wdgqxve94u2v70vwwl9ykdegu8wq74e0puh98",
+        "account_address": "0g18wdgqxve94u2v70vwwl9ykdegu8wq74evtdts6",
+        "evm_address": "0x3b9a8019992d78a679ec73be5259b9470ee07ab9"
+    },
+    {
+        "moniker": "PakNodes-Army",
+        "operator_address": "0gvaloper18juw8rlsykwdrl2l23269pe8n3p5v3j4tsntss",
+        "account_address": "0g18juw8rlsykwdrl2l23269pe8n3p5v3j4g6zh9d",
+        "evm_address": "0x3cb8e38ff0259cd1fd5f5455a287279c43464655"
+    },
+    {
+        "moniker": "Tinh-LTH",
+        "operator_address": "0gvaloper18c7rfqptzj00q20jpjutva5lpgsugtd7ptq4cd",
+        "account_address": "0g18c7rfqptzj00q20jpjutva5lpgsugtd7zp3fds",
+        "evm_address": "0x3e3c34802b149ef029f20cb8b6769f0a21c42dbe"
+    },
+    {
+        "moniker": "FuryNodes",
+        "operator_address": "0gvaloper18mnew9gdlyays7lupkh3qyclvra27xnxfrm62q",
+        "account_address": "0g18mnew9gdlyays7lupkh3qyclvra27xnx2f2xla",
+        "evm_address": "0x3ee797150df93a487bfc0daf10131f60faaf1a66"
+    },
+    {
+        "moniker": "hoaanhchi",
+        "operator_address": "0gvaloper1grntkjk6p6wug7fh2gflxp940lpwm9alscmdjy",
+        "account_address": "0g1grntkjk6p6wug7fh2gflxp940lpwm9alnj238e",
+        "evm_address": "0x40e6bb4ada0e9dc479375213f304b57fc2ed97bf"
+    },
+    {
+        "moniker": "P-OPS Team",
+        "operator_address": "0gvaloper1gyq8s6nzytlgp675tff3ztfh558f5udw08vlql",
+        "account_address": "0g1gyq8s6nzytlgp675tff3ztfh558f5udwvdar4z",
+        "evm_address": "0x4100786a6222fe80ebd45a53112d37a50e9a71ae"
+    },
+    {
+        "moniker": "STAKEME",
+        "operator_address": "0gvaloper1ggwj9lmunf04u9s7t3x6zpdmkrggqh3yfa0vsg",
+        "account_address": "0g1ggwj9lmunf04u9s7t3x6zpdmkrggqh3y2h7s94",
+        "evm_address": "0x421d22ff7c9a5f5e161e5c4da105bbb0d0805e24"
+    },
+    {
+        "moniker": "zwVaild4",
+        "operator_address": "0gvaloper1gtfsswa7pe36al30krz5lr42pxvhkfkcmvg4hk",
+        "account_address": "0g1gtfsswa7pe36al30krz5lr42pxvhkfkccxefzt",
+        "evm_address": "0x42d3083bbe0e63aefe2fb0c54f8eaa09997b26d8"
+    },
+    {
+        "moniker": "Robocon",
+        "operator_address": "0gvaloper1gvw8tvmkf22utcuh3pt8xxcrqtpc72h2a0hpk6",
+        "account_address": "0g1gvw8tvmkf22utcuh3pt8xxcrqtpc72h279xar8",
+        "evm_address": "0x431c75b3764a95c5e3978856731b0302c38f2aea"
+    },
+    {
+        "moniker": "Mioku",
+        "operator_address": "0gvaloper1gv3nqdu67pxayac92lr3rkp03qrjec74sftthu",
+        "account_address": "0g1gv3nqdu67pxayac92lr3rkp03qrjec74nr6hzp",
+        "evm_address": "0x432330379af04dd2770557c711d82f88072ce3d5"
+    },
+    {
+        "moniker": "0gvaild227",
+        "operator_address": "0gvaloper1gw8rm4mdvhzm6qecudnhre4e5gyc5ucu4uukvy",
+        "account_address": "0g1gw8rm4mdvhzm6qecudnhre4e5gyc5ucukkd2ee",
+        "evm_address": "0x438e3dd76d65c5bd0338e36771e6b9a2098a731c"
+    },
+    {
+        "moniker": "Grand Valley",
+        "operator_address": "0gvaloper1gela3jtnmen0dmj2q5p0pne5y45ftshzs053x3",
+        "account_address": "0g1gela3jtnmen0dmj2q5p0pne5y45ftshzn99dnv",
+        "evm_address": "0x467fd8c973de66f6ee4a0502f0cf34256895c2e2"
+    },
+    {
+        "moniker": "P2P.org",
+        "operator_address": "0gvaloper1g68aujlqjatcqlh06u0wtxdgfwuktkn84m8pve",
+        "account_address": "0g1g68aujlqjatcqlh06u0wtxdgfwuktkn8k3kaey",
+        "evm_address": "0x468fde4be09757807eefd71ee599a84bb965da67"
+    },
+    {
+        "moniker": "satusatu",
+        "operator_address": "0gvaloper1gmw8jh62wrwkc9pjy7qvwq3syn9exlw8ql6w9v",
+        "account_address": "0g1gmw8jh62wrwkc9pjy7qvwq3syn9exlw8r4tjs3",
+        "evm_address": "0x46dc795f4a70dd6c14322780c7023024cb937dc7"
+    },
+    {
+        "moniker": "moonli.me",
+        "operator_address": "0gvaloper1fq9ca6ql4n9tytgkjskk9l0spagh6yd7uskln5",
+        "account_address": "0g1fq9ca6ql4n9tytgkjskk9l0spagh6yd7l68rxf",
+        "evm_address": "0x480b8ee81faccab22d16942d62fdf00f517d11be"
+    },
+    {
+        "moniker": "5Kage \ud83c\udf00",
+        "operator_address": "0gvaloper1fpu3d7ef4gshy2w66225ld9s5mgcflmsf7nvv8",
+        "account_address": "0g1fpu3d7ef4gshy2w66225ld9s5mgcflms25zse6",
+        "evm_address": "0x487916fb29aa217229dad2954fb4b0a6d184ff70"
+    },
+    {
+        "moniker": "AJPanda (\u00d8,G) \ud83d\udc3c",
+        "operator_address": "0gvaloper1f8r094wg230yrzzgf95ux85lw7qgqqgug70s2f",
+        "account_address": "0g1f8r094wg230yrzzgf95ux85lw7qgqqgut57vl5",
+        "evm_address": "0x49c6f2d5c8545e4188484969c31e9f778080011c"
+    },
+    {
+        "moniker": "molla202",
+        "operator_address": "0gvaloper1f229f69zeeduea2wl6p4qz4dwauz3w070edd3y",
+        "account_address": "0g1f229f69zeeduea2wl6p4qz4dwauz3w07vnu3ye",
+        "evm_address": "0x4a9454e8a2ce5bccf54efe83500aad777828b9fe"
+    },
+    {
+        "moniker": "vitruvianus",
+        "operator_address": "0gvaloper1f0qc4h03yegghrxwmrar29jshcdka2fveckjsw",
+        "account_address": "0g1f0qc4h03yegghrxwmrar29jshcdka2fv6j8w9n",
+        "evm_address": "0x4bc18addf126508b8cced8fa351650be1b6ea92c"
+    },
+    {
+        "moniker": "0xLangit",
+        "operator_address": "0gvaloper1f0l2h7t78dukuzpegx755pgr2eh53jy0798426",
+        "account_address": "0g1f0l2h7t78dukuzpegx755pgr2eh53jy0a0kfl8",
+        "evm_address": "0x4bfeabf97e3b796e083941bd4a0503566f48c88f"
+    },
+    {
+        "moniker": "Obiwan_(\u00d8,G)",
+        "operator_address": "0gvaloper1f3y3h88dtl2ng5sefke922ahw4dhsjtvtglpe5",
+        "account_address": "0g1f3y3h88dtl2ng5sefke922ahw4dhsjtvgzwavf",
+        "evm_address": "0x4c491b9ced5fd53452194db2552bb7755b78496c"
+    },
+    {
+        "moniker": "0gvaild26",
+        "operator_address": "0gvaloper1f5w0qgxupq9lax5g4waujp6yhvc4597gh95kr5",
+        "account_address": "0g1f5w0qgxupq9lax5g4waujp6yhvc4597g5092kf",
+        "evm_address": "0x4d1cf020dc080bfe9a88abbbc90744bb315a17c8"
+    },
+    {
+        "moniker": "shayneval",
+        "operator_address": "0gvaloper1fl2f9c4dxdpax5j4shjgpfcfye93ru4e8xzcw3",
+        "account_address": "0g1fl2f9c4dxdpax5j4shjgpfcfye93ru4eyvnymv",
+        "evm_address": "0x4fd492e2ad3343d3525585e480a709264b11f2b9"
+    },
+    {
+        "moniker": "NodePhilosophy",
+        "operator_address": "0gvaloper12zkw3d73smc20y8wzn5qr4ud9tj8ull59szdtd",
+        "account_address": "0g12zkw3d73smc20y8wzn5qr4ud9tj8ull5x6n37s",
+        "evm_address": "0x50ace8b7d186f0a790ee14e801d78d2ae47e7ff4"
+    },
+    {
+        "moniker": "ValidatorVN",
+        "operator_address": "0gvaloper12dudrsaqkw75h68jt3tcvqhn0mp8z8cw7kkusa",
+        "account_address": "0g12dudrsaqkw75h68jt3tcvqhn0mp8z8cwau8q9q",
+        "evm_address": "0x5378d1c3a0b3bd4be8f25c578602f37ec2711f0e"
+    },
+    {
+        "moniker": "DungDung",
+        "operator_address": "0gvaloper12wynnuhng7zu8jlq5czxympgdwem759kc25hhu",
+        "account_address": "0g12wynnuhng7zu8jlq5czxympgdwem759kmq9tzp",
+        "evm_address": "0x538939f2f34785c3cbe0a604626c286bb3bf50b6"
+    },
+    {
+        "moniker": "Nunoy",
+        "operator_address": "0gvaloper12jx35wjjzcl5u9n73036wh576lzqvkw09e8fmg",
+        "account_address": "0g12jx35wjjzcl5u9n73036wh576lzqvkw0xnk4w4",
+        "evm_address": "0x548d1a3a52163f4e167e8be3a75e9ed7c40659cf"
+    },
+    {
+        "moniker": "Unity Nodes",
+        "operator_address": "0gvaloper12uv96nqfk0xhrsftxfweaet45ymrwt5x94dca3",
+        "account_address": "0g12uv96nqfk0xhrsftxfweaet45ymrwt5xxluygv",
+        "evm_address": "0x57185d4c09b3cd71c12b325d9ee575a136372e86"
+    },
+    {
+        "moniker": "FiratAtlan",
+        "operator_address": "0gvaloper127eqcu7vhu6m3z44hkkt7w4fyvvxme32xt0l0y",
+        "account_address": "0g127eqcu7vhu6m3z44hkkt7w4fyvvxme329p7r6e",
+        "evm_address": "0x57b20c73ccbf35b88ab5bdacbf3aa923186de62a"
+    },
+    {
+        "moniker": "cassiopea",
+        "operator_address": "0gvaloper12ljgm0w39hvr6nhaul6tsvmwj8p6vexgpescag",
+        "account_address": "0g12ljgm0w39hvr6nhaul6tsvmwj8p6vexgznpyg4",
+        "evm_address": "0x57e48dbdd12dd83d4efde7f4b8336e91c3a664c8"
+    },
+    {
+        "moniker": "AlexBor-001",
+        "operator_address": "0gvaloper1tpfvktaxgn5j7p8qpfkljmpd2ljeuvquu0ph5y",
+        "account_address": "0g1tpfvktaxgn5j7p8qpfkljmpd2ljeuvqul9stpe",
+        "evm_address": "0x5852cb2fa644e92f04e00a6df96c2d57e59e301c"
+    },
+    {
+        "moniker": "NodeSafe",
+        "operator_address": "0gvaloper1tz430288ryzwa9z95pzgn4mqzl9wvfgsfhu33s",
+        "account_address": "0g1tz430288ryzwa9z95pzgn4mqzl9wvfgs2addyd",
+        "evm_address": "0x58ab17a8e71904ee9445a04489d76017cae62510"
+    },
+    {
+        "moniker": "n1stake",
+        "operator_address": "0gvaloper1txndwmwkzv0qge6stc8dlpzhuesy2n432grezy",
+        "account_address": "0g1txndwmwkzv0qge6stc8dlpzhuesy2n43fzj9he",
+        "evm_address": "0x59a6d76dd6131e0467505e0edf8457e660454eb1"
+    },
+    {
+        "moniker": "DANGGIA",
+        "operator_address": "0gvaloper1ttd290wfdqhpvx9j2frctnyfw0w27t63878ftu",
+        "account_address": "0g1ttd290wfdqhpvx9j2frctnyfw0w27t63y5k47p",
+        "evm_address": "0x5adaa2bdc9682e1618b2524785cc8973dcaf2f51"
+    },
+    {
+        "moniker": "PathrockNetwork",
+        "operator_address": "0gvaloper1t65hkatw58re9yxg2kyckn0gjnk8y957mezqet",
+        "account_address": "0g1t65hkatw58re9yxg2kyckn0gjnk8y957cnnuvk",
+        "evm_address": "0x5ea97b756ea1c79290c855898b4de894ec72169e"
+    },
+    {
+        "moniker": "TinkerBell",
+        "operator_address": "0gvaloper1v9sd3s643n5zqfec7pgsyjdh7gt6qg6fkrz3lc",
+        "account_address": "0g1v9sd3s643n5zqfec7pgsyjdh7gt6qg6f4fnd29",
+        "evm_address": "0x6160d8c3558ce8202738f0510249b7f217a02349"
+    },
+    {
+        "moniker": "HaMon",
+        "operator_address": "0gvaloper1vgx3wserq3zf70xyd5vlrl286zjknqtm8el9re",
+        "account_address": "0g1vgx3wserq3zf70xyd5vlrl286zjknqtmynweky",
+        "evm_address": "0x620d17432304449f3cc46d19f1fd47d0a569817b"
+    },
+    {
+        "moniker": "node0",
+        "operator_address": "0gvaloper1vspljjl62xuvvt6rgwxfp3fzlrvdseamhs2p2n",
+        "account_address": "0g1vspljjl62xuvvt6rgwxfp3fzlrvdseam56malw",
+        "evm_address": "0x6403f94bfa51b8c62f43438c90c522f8d8d867bb"
+    },
+    {
+        "moniker": "blackeyes",
+        "operator_address": "0gvaloper1vnmfvz3eywz2eyqe6t50wpxqdy8tm5zgmxgk3e",
+        "account_address": "0g1vnmfvz3eywz2eyqe6t50wpxqdy8tm5zgcve2yy",
+        "evm_address": "0x64f6960a392384ac9019d2e8f704c0690ebdd048"
+    },
+    {
+        "moniker": "dstern1990",
+        "operator_address": "0gvaloper1dxk4794e43mjtfutqgtlv223j4pvxt8mfws6wj",
+        "account_address": "0g1dxk4794e43mjtfutqgtlv223j4pvxt8m2ypxm0",
+        "evm_address": "0x69ad5f16b9ac7725a78b0217f629519542c32cfb"
+    },
+    {
+        "moniker": "jotzumi",
+        "operator_address": "0gvaloper1dhqa8reksaemghyxzu7vqhw8cxq2qf5md4n7lp",
+        "account_address": "0g1dhqa8reksaemghyxzu7vqhw8cxq2qf5mwlzz2u",
+        "evm_address": "0x6dc1d38f368773b45c86173cc05dc7c180a0269b"
+    },
+    {
+        "moniker": "Stakin",
+        "operator_address": "0gvaloper1d6k562dhwt985hkmuvk3y8nl94j834tke80ta6",
+        "account_address": "0g1d6k562dhwt985hkmuvk3y8nl94j834tk6d7hg8",
+        "evm_address": "0x6ead4d29b772ca7a5edbe32d121e7f2d6478d576"
+    },
+    {
+        "moniker": "soonrew",
+        "operator_address": "0gvaloper1dlw6uqrphlzptxvk5d4ersqgxegwmhkzxxm7yz",
+        "account_address": "0g1dlw6uqrphlzptxvk5d4ersqgxegwmhkz9v2z3l",
+        "evm_address": "0x6fddae0061bfc4159996a36b91c0083650eddec2"
+    },
+    {
+        "moniker": "Decadanceux",
+        "operator_address": "0gvaloper1w8s9pausn9k6gh69gjzs8q20zqk6q7thj6eqrx",
+        "account_address": "0g1w8s9pausn9k6gh69gjzs8q20zqk6q7th3sgukm",
+        "evm_address": "0x71e050f790996da45f45448503814f102da07977"
+    },
+    {
+        "moniker": "kaplan",
+        "operator_address": "0gvaloper1wnv285xdevgnry92msgcpdrjkv87st9pzlt3qa",
+        "account_address": "0g1wnv285xdevgnry92msgcpdrjkv87st9pp46d4q",
+        "evm_address": "0x74d8a3d0cdcb113190aadc1180b472b30fe82ca1"
+    },
+    {
+        "moniker": "Dead_Fire",
+        "operator_address": "0gvaloper1wh687564a4e3cxaznpdvyz5g37zyufglvkpq27",
+        "account_address": "0g1wh687564a4e3cxaznpdvyz5g37zyufgl0usulr",
+        "evm_address": "0x75f47f5355ed731c1ba2985ac20a888f844e251f"
+    },
+    {
+        "moniker": "testnetnodes",
+        "operator_address": "0gvaloper1wu6qy43mqamrgzhsxegx9c5nr3tyt6wj4uh7h3",
+        "account_address": "0g1wu6qy43mqamrgzhsxegx9c5nr3tyt6wjkkxzzv",
+        "evm_address": "0x773402563b0776340af0365062e2931c5645e9d2"
+    },
+    {
+        "moniker": "cocopops",
+        "operator_address": "0gvaloper10rl7scp2zt8vdf9tmpds6tmwr5rpsnkzcf5mxq",
+        "account_address": "0g10rl7scp2zt8vdf9tmpds6tmwr5rpsnkzmr98na",
+        "evm_address": "0x78ffe8602a12cec6a4abd85b0d2f6e1d06184ec2"
+    },
+    {
+        "moniker": "shibumius",
+        "operator_address": "0gvaloper10xq8q70krd29t399py54sx4dnrgqe2euen94hp",
+        "account_address": "0g10xq8q70krd29t399py54sx4dnrgqe2eu6e5fzu",
+        "evm_address": "0x79807079f61b5455c4a50929581aad98d00cab3c"
+    },
+    {
+        "moniker": "node2",
+        "operator_address": "0gvaloper10ga6uss4nacavg7ht9ll2zh2ursly26fzp4krs",
+        "account_address": "0g10ga6uss4nacavg7ht9ll2zh2ursly26fpty2kd",
+        "evm_address": "0x7a3bae42159f71d623d7597ff50aeae0e1f22b49"
+    },
+    {
+        "moniker": "Kryz",
+        "operator_address": "0gvaloper10fyu2x6jdn7xdagnklq5q3ytnjsv3wzaxt40kj",
+        "account_address": "0g10fyu2x6jdn7xdagnklq5q3ytnjsv3wza9pynr0",
+        "evm_address": "0x7a49c51b526cfc66f513b7c140448b9ca0c8b85d"
+    },
+    {
+        "moniker": "DTEAM",
+        "operator_address": "0gvaloper10tw65hxdfsqx75wdk3hk7r0x78v9f3pxytuct3",
+        "account_address": "0g10tw65hxdfsqx75wdk3hk7r0x78v9f3px8pdy7v",
+        "evm_address": "0x7addaa5ccd4c006f51cdb46f6f0de6f1d854c426"
+    },
+    {
+        "moniker": "zeycan",
+        "operator_address": "0gvaloper100gyk25fw669hzz366u694zaxlynegagnwkla6",
+        "account_address": "0g100gyk25fw669hzz366u694zaxlynegagsy8rg8",
+        "evm_address": "0x7bd04b2a8976b45b8851d6b9a2d45d37c93ca3a8"
+    },
+    {
+        "moniker": "dongqn",
+        "operator_address": "0gvaloper10sdj27v35jx9yme34x89v3r4s5san2a2dyc7g2",
+        "account_address": "0g10sdj27v35jx9yme34x89v3r4s5san2a2wwfzah",
+        "evm_address": "0x7c1b257991a48c526f31a98e5644758521d9abaa"
+    },
+    {
+        "moniker": "harmy",
+        "operator_address": "0gvaloper1034tcegpt3c4w6eg8sex8ycd07kfzpf0g5lhgp",
+        "account_address": "0g1034tcegpt3c4w6eg8sex8ycd07kfzpf0t7wtau",
+        "evm_address": "0x7c6abc65015c71576b283c3263930d7fac91052f"
+    },
+    {
+        "moniker": "Meganode",
+        "operator_address": "0gvaloper103e0pkn5rn5sx9wynekrl8mfmx6jwu63043hvv",
+        "account_address": "0g103e0pkn5rn5sx9wynekrl8mfmx6jwu63vlqte3",
+        "evm_address": "0x7c72f0da741ce90315c49e6c3f9f69d9b5277351"
+    },
+    {
+        "moniker": "Noderzz",
+        "operator_address": "0gvaloper10jkfm6j0q6qkvyqpwk2k5y759rxmepkzghulrj",
+        "account_address": "0g10jkfm6j0q6qkvyqpwk2k5y759rxmepkztadrk0",
+        "evm_address": "0x7cac9dea4f068166100175956a13d428cdbc86c2"
+    },
+    {
+        "moniker": "fred",
+        "operator_address": "0gvaloper10ng2j9azvt95ldfztw8w8s935hpw7yh54va9an",
+        "account_address": "0g10ng2j9azvt95ldfztw8w8s935hpw7yh5kxvegw",
+        "evm_address": "0x7cd0a917a262cb4fb5225b8ee3c0b1a5c2ef12f4"
+    },
+    {
+        "moniker": "NATxNAT",
+        "operator_address": "0gvaloper104eg2z8r7qvrsff2gca8hgzaac5fgrszwn8vps",
+        "account_address": "0g104eg2z8r7qvrsff2gca8hgzaac5fgrszdeks5d",
+        "evm_address": "0x7d728508e3f01838252a463a7ba05dee28940e02"
+    },
+    {
+        "moniker": "mr.tx",
+        "operator_address": "0gvaloper1stvye483jz8j63nn8rxa69hx3c3uxmtnaqud2g",
+        "account_address": "0g1stvye483jz8j63nn8rxa69hx3c3uxmtn72d3l4",
+        "evm_address": "0x82d84cd4f1908f2d467338cddd16e68e23c36d73"
+    },
+    {
+        "moniker": "HerculesNode",
+        "operator_address": "0gvaloper1sm8trs7yuhk5mt8ujep4medyfrw4z3yjtx82eh",
+        "account_address": "0g1sm8trs7yuhk5mt8ujep4medyfrw4z3yjgvkkv2",
+        "evm_address": "0x86ceb1c3c4e5ed4dacfc96435de5a448dd514492"
+    },
+    {
+        "moniker": "NodesRun\ud83d\ude80Active-Validator",
+        "operator_address": "0gvaloper1sulzgf86t6lckacu6cvvs2lsndpd36vyqsk5z5",
+        "account_address": "0g1sulzgf86t6lckacu6cvvs2lsndpd36vyr68ghf",
+        "evm_address": "0x873e2424fa5ebf8b771cd618c82bf09b42d8e984"
+    },
+    {
+        "moniker": "ITRocket",
+        "operator_address": "0gvaloper1slya6q5n667ltphexhdv5ter2d796hgnr8s63h",
+        "account_address": "0g1slya6q5n667ltphexhdv5ter2d796hgnqdpxy2",
+        "evm_address": "0x87c9dd0293d6bdf586f935daca2f23537c5d5d13"
+    },
+    {
+        "moniker": "hkst888",
+        "operator_address": "0gvaloper1slvss60jrj92dw20d7l69eq95a2f42rkgghrte",
+        "account_address": "0g1slvss60jrj92dw20d7l69eq95a2f42rktzxl7y",
+        "evm_address": "0x87d90869f21c8aa6b94f6fbfa2e405a7549aa876"
+    },
+    {
+        "moniker": "Daretoleap",
+        "operator_address": "0gvaloper133hkwx2f58p7hq6zlrphyrhs2u03geduce7z9s",
+        "account_address": "0g133hkwx2f58p7hq6zlrphyrhs2u03gedumn07sd",
+        "evm_address": "0x8c6f671949a1c3eb8342f8c3720ef0571f1465bc"
+    },
+    {
+        "moniker": "LongAA",
+        "operator_address": "0gvaloper135cf5hyk58vmvfxgqf6dp7wgzeszcds6hl39hc",
+        "account_address": "0g135cf5hyk58vmvfxgqf6dp7wgzeszcds654qez9",
+        "evm_address": "0x8d309a5c96a1d9b624c80274d0f9c816602c361a"
+    },
+    {
+        "moniker": "ZEPETO",
+        "operator_address": "0gvaloper13emvmxsjft38zhd2npwcelshf2vv6ld8yrqrzf",
+        "account_address": "0g13emvmxsjft38zhd2npwcelshf2vv6ld88f3lh5",
+        "evm_address": "0x8e76cd9a124ae2715daa985d8cfe174a98cd7da7"
+    },
+    {
+        "moniker": "HazenNetworkSolutions",
+        "operator_address": "0gvaloper13al2g3x4rns30u4yw7k5cjnwesyf6f0nlxfg7f",
+        "account_address": "0g13al2g3x4rns30u4yw7k5cjnwesyf6f0nuvc5t5",
+        "evm_address": "0x8f7ea444d51ce117f2a477ad4c4a6ecc089d25f3"
+    },
+    {
+        "moniker": "Samara",
+        "operator_address": "0gvaloper1jplsesxwznldngukwdyh3elua30kyf2ctahv2k",
+        "account_address": "0g1jplsesxwznldngukwdyh3elua30kyf2cghxslt",
+        "evm_address": "0x907f0cc0ce14fed9a396734978e7fcec5f622558"
+    },
+    {
+        "moniker": "Thinaxinh",
+        "operator_address": "0gvaloper1j8yz49ue8k5vc90tk63hersd2vxrn6ay7aqmma",
+        "account_address": "0g1j8yz49ue8k5vc90tk63hersd2vxrn6ayah38wq",
+        "evm_address": "0x91c82a97993da8cc15ebb6a37c8e0d530c39eba4"
+    },
+    {
+        "moniker": "kamiloba",
+        "operator_address": "0gvaloper1jwqyy4z4q0ayqx7ecrhxenclwztzerlwpr6yz3",
+        "account_address": "0g1jwqyy4z4q0ayqx7ecrhxenclwztzerlwzftchv",
+        "evm_address": "0x938042545503fa401bd9c0ee6ccf1f70962c8fee"
+    },
+    {
+        "moniker": "xxcode",
+        "operator_address": "0gvaloper1jwclv60tjufjpqq33n28u4jhpe5rferxeejvwk",
+        "account_address": "0g1jwclv60tjufjpqq33n28u4jhpe5rferx6nrsmt",
+        "evm_address": "0x93b1f669eb97132080118cd47e56570e6834e466"
+    },
+    {
+        "moniker": "sainsCrife",
+        "operator_address": "0gvaloper1jmak78ef0yhschyma2usr7qk3sqjafhup4x9cj",
+        "account_address": "0g1jmak78ef0yhschyma2usr7qk3sqjafhuzlhed0",
+        "evm_address": "0x96fb6f1f29792f0c5c9beab901f8168c012ea6fc"
+    },
+    {
+        "moniker": "j4rannode",
+        "operator_address": "0gvaloper1nqzgk65wqz3ekm3nln3xtdy73md2mwtduapczl",
+        "account_address": "0g1nqzgk65wqz3ekm3nln3xtdy73md2mwtdlhsyhz",
+        "evm_address": "0x98048b6a8e00a39b6e33fce265b49e8edaadb96d"
+    },
+    {
+        "moniker": "borderland4",
+        "operator_address": "0gvaloper1nrs6gal2cjj940xydqw9aql5vuwfehzppezyyf",
+        "account_address": "0g1nrs6gal2cjj940xydqw9aql5vuwfehzpznnc35",
+        "evm_address": "0x98e1a477eac4a45abcc4681c5e83f4671c9cdc41"
+    },
+    {
+        "moniker": "Technostyler",
+        "operator_address": "0gvaloper1n9p5w7csxq0rd6fjaa03qltmhta5u3lsuux3ps",
+        "account_address": "0g1n9p5w7csxq0rd6fjaa03qltmhta5u3lslkhd5d",
+        "evm_address": "0x9943477b10301e36e932ef5f107d7bbafb4e47f0"
+    },
+    {
+        "moniker": "aerox88",
+        "operator_address": "0gvaloper1n9dsyk7xy8cu5cez3cqmrkju5ac07gs6523s9x",
+        "account_address": "0g1n9dsyk7xy8cu5cez3cqmrkju5ac07gs6hqqvsm",
+        "evm_address": "0x995b025bc621f1ca63228e01b1da5ca770ff221a"
+    },
+    {
+        "moniker": "TrustedPoint",
+        "operator_address": "0gvaloper1nxy0xasm0apjt2tfw4v07r99lx3zyyha4v6ntn",
+        "account_address": "0g1nxy0xasm0apjt2tfw4v07r99lx3zyyhakxt07w",
+        "evm_address": "0x9988f3761b7f4325a9697558ff0ca5f9a22212fd"
+    },
+    {
+        "moniker": "AV_Vaneret",
+        "operator_address": "0gvaloper1n2h8f3y7mxuuwnlgeafm5j6ja52g9tq9rqtct5",
+        "account_address": "0g1n2h8f3y7mxuuwnlgeafm5j6ja52g9tq9q26y7f",
+        "evm_address": "0x9aae74c49ed9b9c74fe8cf53ba4b52ed1482ac05"
+    },
+    {
+        "moniker": "roscuong6666",
+        "operator_address": "0gvaloper1n2m3w7zgne4trwcepmvr5ha759yzvnryx4g9jc",
+        "account_address": "0g1n2m3w7zgne4trwcepmvr5ha759yzvnry9lee89",
+        "evm_address": "0x9ab71778489e6ab1bb190ed83a5fbea148264c64"
+    },
+    {
+        "moniker": "Seanxxxxs",
+        "operator_address": "0gvaloper1nssdae5ewxmmrzmklpk6uw2nycp4ch63xyf6l2",
+        "account_address": "0g1nssdae5ewxmmrzmklpk6uw2nycp4ch639wcx2h",
+        "evm_address": "0x9c20dee69971b7b18b76f86dae395326035c5f51"
+    },
+    {
+        "moniker": "Hack3rHaven42",
+        "operator_address": "0gvaloper1nsenyfl5xly8sfgvl5zke80asw7uduy4yhencp",
+        "account_address": "0g1nsenyfl5xly8sfgvl5zke80asw7uduy48ag0du",
+        "evm_address": "0x9c333227f437c878250cfd056c9dfd83bdc6f095"
+    },
+    {
+        "moniker": "MictoNode",
+        "operator_address": "0gvaloper1n3hu472yukx2ezf2jhnwz5rcdgfqgew5t7mtgv",
+        "account_address": "0g1n3hu472yukx2ezf2jhnwz5rcdgfqgew5g52ha3",
+        "evm_address": "0x9c6fcaf944e58cac892a95e6e150786a120465d4"
+    },
+    {
+        "moniker": "Ruby Nodes",
+        "operator_address": "0gvaloper1ne0lgvmzyhd9r82ugyd72j4ugr5hups9kefqyu",
+        "account_address": "0g1ne0lgvmzyhd9r82ugyd72j4ugr5hups94ncu3p",
+        "evm_address": "0x9e5ff4336225da519d5c411be54abc40e97e0605"
+    },
+    {
+        "moniker": "LECCA Ventures",
+        "operator_address": "0gvaloper152utxds5pkqdns5q2a35js99f27y2m0sg02ka8",
+        "account_address": "0g152utxds5pkqdns5q2a35js99f27y2m0st9m2g6",
+        "evm_address": "0xa2b8b336140d80d9c28057634940a54abc456df0"
+    },
+    {
+        "moniker": "Cyon0x",
+        "operator_address": "0gvaloper153vdtfrvckuqs3ah06338kffdkdymc0kdznupu",
+        "account_address": "0g153vdtfrvckuqs3ah06338kffdkdymc0kwgzq5p",
+        "evm_address": "0xa458d5a46cc5b80847b77ea313d9296d9a4de1f6"
+    },
+    {
+        "moniker": "RONGGOLAWE",
+        "operator_address": "0gvaloper15l65yzz2erwhq5gps4hqxsv7hxvt2v37j8555g",
+        "account_address": "0g15l65yzz2erwhq5gps4hqxsv7hxvt2v373d9gp4",
+        "evm_address": "0xa7f542084ac8dd705101856e03419eb998b5323e"
+    },
+    {
+        "moniker": "Cherry \ud83d\udc9a",
+        "operator_address": "0gvaloper1486mjyvvyae42ma482hsupgyaay0p5p0d64hn8",
+        "account_address": "0g1486mjyvvyae42ma482hsupgyaay0p5p0wsytx6",
+        "evm_address": "0xa9f5b9118c2773556fb53aaf0e0504ef48f0d02f"
+    },
+    {
+        "moniker": "rickdeckard",
+        "operator_address": "0gvaloper14gryyrgrpxxjp8qks557rs6k78y09sst9thjwx",
+        "account_address": "0g14gryyrgrpxxjp8qks557rs6k78y09sstxpxwmm",
+        "evm_address": "0xaa06420d03098d209c168529e1c356f1c8f2c20b"
+    },
+    {
+        "moniker": "science",
+        "operator_address": "0gvaloper14swf55ncs3altvrju7sm03acu94ncj8zw555pr",
+        "account_address": "0g14swf55ncs3altvrju7sm03acu94ncj8zd79g57",
+        "evm_address": "0xac1c9a5278847bf5b072e7a1b7c7b8e16b3c48e2"
+    },
+    {
+        "moniker": "node4",
+        "operator_address": "0gvaloper14elsp7h80rwhfjkag06tsu8rtmcey3w3mqdaww",
+        "account_address": "0g14elsp7h80rwhfjkag06tsu8rtmcey3w3c2upmn",
+        "evm_address": "0xae7f00fae778dd74cadd43f4b870e35ef19245d1"
+    },
+    {
+        "moniker": "MHCLabs",
+        "operator_address": "0gvaloper146wrdmjlj7vle0kthg2sflaex69gka8y55al9r",
+        "account_address": "0g146wrdmjlj7vle0kthg2sflaex69gka8yh7vrs7",
+        "evm_address": "0xae9c36ee5f9799fcbecbba1504ffb9368a8b74e4"
+    },
+    {
+        "moniker": "taybew",
+        "operator_address": "0gvaloper14m6clv038tyu5get77acp95wjjpvftk9s938d0",
+        "account_address": "0g14m6clv038tyu5get77acp95wjjpvftk9n0qmcj",
+        "evm_address": "0xaef58fb1f13ac9ca232bf7bb80968e9482c4aec5"
+    },
+    {
+        "moniker": "mAthzld",
+        "operator_address": "0gvaloper147yjx7k6aj7t0srdukhtlw4wlphug3hudw65t6",
+        "account_address": "0g147yjx7k6aj7t0srdukhtlw4wlphug3huwytg78",
+        "evm_address": "0xaf89237adaecbcb7c06de5aebfbaaef86fc446fc"
+    },
+    {
+        "moniker": "BlockHunters \ud83c\udfaf",
+        "operator_address": "0gvaloper1kpqpd5z0940xznxa6pe2nmu7uvyz9v60yfww7z",
+        "account_address": "0g1kpqpd5z0940xznxa6pe2nmu7uvyz9v608rljtl",
+        "evm_address": "0xb04016d04f2d5e614cddd072a9ef9ee30822b34f"
+    },
+    {
+        "moniker": "Terez9",
+        "operator_address": "0gvaloper1kz9s37dekjq2m89ssndj0sw26fmu9apnz8uqz3",
+        "account_address": "0g1kz9s37dekjq2m89ssndj0sw26fmu9apnpdduhv",
+        "evm_address": "0xb08b08f9b9b480ad9cb084db27c1cad277c2f433"
+    },
+    {
+        "moniker": "todorokisan",
+        "operator_address": "0gvaloper1k90p4vvfkq84fnwz0pgyff955p207x8hlsxn82",
+        "account_address": "0g1k90p4vvfkq84fnwz0pgyff955p207x8hu6h0jh",
+        "evm_address": "0xb15e1ab189b00f54cdc2785044a4b4a054ff18f7"
+    },
+    {
+        "moniker": "AnimocaBrands",
+        "operator_address": "0gvaloper1kx9vhj20hv45c7s2x382zetjcldvn55ellydk3",
+        "account_address": "0g1kx9vhj20hv45c7s2x382zetjcldvn55eu443rv",
+        "evm_address": "0xb18acbc94fbb2b4c7a0a344ea16572c7dac9d299"
+    },
+    {
+        "moniker": "Chicharito | Node9X",
+        "operator_address": "0gvaloper1kvqf2nn5uzxjj6p7lud8wtawf9tsas5lwz5fgu",
+        "account_address": "0g1kvqf2nn5uzxjj6p7lud8wtawf9tsas5ldg94ap",
+        "evm_address": "0xb300954e74e08d29683eff1a772fae49570ec29f"
+    },
+    {
+        "moniker": "Wal1tusha",
+        "operator_address": "0gvaloper1kk4vkmrcwtgynd7tgurgvttuyy7t203n0erp7e",
+        "account_address": "0g1kk4vkmrcwtgynd7tgurgvttuyy7t203nvnjaty",
+        "evm_address": "0xb5aacb6c7872d049b7cb4706862d7c213cb53e33"
+    },
+    {
+        "moniker": "Vedrich",
+        "operator_address": "0gvaloper1kh0sg6atpj80548nj8z47xkgj8z69sqj92te22",
+        "account_address": "0g1kh0sg6atpj80548nj8z47xkgj8z69sqjxq69lh",
+        "evm_address": "0xb5df046bab0c8efa54f391c55f1ac891c5a2c012"
+    },
+    {
+        "moniker": "Tango",
+        "operator_address": "0gvaloper1hptr4qtzrmkckr46g5ykwk4eslqacta9sel0hy",
+        "account_address": "0g1hptr4qtzrmkckr46g5ykwk4eslqacta9nnwnze",
+        "evm_address": "0xb8563a81621eed8b0eba4509675ab987c1dc2fa5"
+    },
+    {
+        "moniker": "CoreNode",
+        "operator_address": "0gvaloper1hxztru2cjc6pw3neqz6tap50s002qplu3tfp7w",
+        "account_address": "0g1hxztru2cjc6pw3neqz6tap50s002qplujpcatn",
+        "evm_address": "0xb984b1f158963417467900b4be868f83dea007fc"
+    },
+    {
+        "moniker": "adrapierXkatsura",
+        "operator_address": "0gvaloper1h8t58hca9jtnh5gr5xkd28qh05w2j5psfj2cda",
+        "account_address": "0g1h8t58hca9jtnh5gr5xkd28qh05w2j5ps2cmycq",
+        "evm_address": "0xb9d743df1d2c973bd103a1acd51c177d1ca95030"
+    },
+    {
+        "moniker": "huydt88",
+        "operator_address": "0gvaloper1hvcr7jt88c4mc4n57z8gkyu8f3j4s5su8cc3r2",
+        "account_address": "0g1hvcr7jt88c4mc4n57z8gkyu8f3j4s5suyjfdkh",
+        "evm_address": "0xbb303f49673e2bbc5674f08e8b13874c6558521c"
+    },
+    {
+        "moniker": "Zstake",
+        "operator_address": "0gvaloper1h0wex7hdstqfaypm38xyssdqkxwt97n9cx073e",
+        "account_address": "0g1h0wex7hdstqfaypm38xyssdqkxwt97n9mv7zyy",
+        "evm_address": "0xbbdd937aed82c09e903b89cc4841a0b19cb2fa65"
+    },
+    {
+        "moniker": "PAnh",
+        "operator_address": "0gvaloper1cpqdzthvmx2kala6z7e5zyyl06jyzvyqzsylz5",
+        "account_address": "0g1cpqdzthvmx2kala6z7e5zyyl06jyzvyqp64rhf",
+        "evm_address": "0xc040d12eecd9956effba17b341109f7ea4413080"
+    },
+    {
+        "moniker": "deus",
+        "operator_address": "0gvaloper1c9g68ga2y6u4jkk9lzdnescy9tfv4zrlckapus",
+        "account_address": "0g1c9g68ga2y6u4jkk9lzdnescy9tfv4zrlmuvafd",
+        "evm_address": "0xc151a3a3aa26b9595ac5f89b3cc3042ad2ca887f"
+    },
+    {
+        "moniker": "anthundred",
+        "operator_address": "0gvaloper1cf5fn903ju2h3ex2ryjv3htg08e6w9xfw97qxh",
+        "account_address": "0g1cf5fn903ju2h3ex2ryjv3htg08e6w9xfd00un2",
+        "evm_address": "0xc2689995f1971578e4ca1924c8dd6879f3a714c9"
+    },
+    {
+        "moniker": "tytynoderunner",
+        "operator_address": "0gvaloper1ctcg7t2eptz0g466pnwzshv2s9ukc8c3z0q9gy",
+        "account_address": "0g1ctcg7t2eptz0g466pnwzshv2s9ukc8c3p93eae",
+        "evm_address": "0xc2f08f2d590ac4f4575a0cdc285d8a81796c1f11"
+    },
+    {
+        "moniker": "darkvayder55",
+        "operator_address": "0gvaloper1cwdwjnvcghr08atfvclvtdw7rxmelxmsuh7tgp",
+        "account_address": "0g1cwdwjnvcghr08atfvclvtdw7rxmelxmsla0hau",
+        "evm_address": "0xc39ae94d9845c6f3f569663ec5b5de19b79f9b70"
+    },
+    {
+        "moniker": "255",
+        "operator_address": "0gvaloper1ckuqawaahr5ahpu2qp5k2vyqgdpx76v2aatuf8",
+        "account_address": "0g1ckuqawaahr5ahpu2qp5k2vyqgdpx76v27h6qu6",
+        "evm_address": "0xc5b80ebbbdb8e9db878a006965308043426f698a"
+    },
+    {
+        "moniker": "sofia",
+        "operator_address": "0gvaloper1c664jnye3g0nm9hpwdz23vgp62xcz7qmpk3mjl",
+        "account_address": "0g1c664jnye3g0nm9hpwdz23vgp62xcz7qmzuq88z",
+        "evm_address": "0xc6b5594c998a1f3d96e17344a8b101d28d81781b"
+    },
+    {
+        "moniker": "thorkingdom",
+        "operator_address": "0gvaloper1etadqg6rt5265lqxcs7lmulqstmj5f5zlv677z",
+        "account_address": "0g1etadqg6rt5265lqxcs7lmulqstmj5f5zuxtztl",
+        "evm_address": "0xcafad023435d15aa7c06c43dfdf3e082f72a2682"
+    },
+    {
+        "moniker": "KRcity",
+        "operator_address": "0gvaloper1edpl4d94gz72wnhqefluqavgnjk9r39tarhups",
+        "account_address": "0g1edpl4d94gz72wnhqefluqavgnjk9r39t7fxq5d",
+        "evm_address": "0xcb43fab4b540bca74ee0ca7fc075889cac51c4ab"
+    },
+    {
+        "moniker": "KimAnh",
+        "operator_address": "0gvaloper1ewp0hvtfpfn9zvyft72g9wajsfmee04uzwnjd9",
+        "account_address": "0g1ewp0hvtfpfn9zvyft72g9wajsfmee04upyzwcc",
+        "evm_address": "0xcb82fbb1690a665130895f9482bbb282779cbebc"
+    },
+    {
+        "moniker": "HAXM",
+        "operator_address": "0gvaloper16ja94f7twsnz7nwwwxljzls75n8fpqkj8lg2g9",
+        "account_address": "0g16ja94f7twsnz7nwwwxljzls75n8fpqkjy4ekac",
+        "evm_address": "0xd4ba5aa7cb74262f4dce71bf217e1ea4ce9082d2"
+    },
+    {
+        "moniker": "Netizens X",
+        "operator_address": "0gvaloper165qamd8vwspk7lpc6lu8mkhfh5x7w433d057y9",
+        "account_address": "0g165qamd8vwspk7lpc6lu8mkhfh5x7w433w99z3c",
+        "evm_address": "0xd501ddb4ec74036f7c38d7f87ddae9bd0de75631"
+    },
+    {
+        "moniker": "MINT",
+        "operator_address": "0gvaloper16h53c55x6e6srawgaqpxgjr6a4ffz68keek0gu",
+        "account_address": "0g16h53c55x6e6srawgaqpxgjr6a4ffz68k6n8nap",
+        "evm_address": "0xd5e91c5286d67501f5c8e80264487aed529168f6"
+    },
+    {
+        "moniker": "Lioniezer",
+        "operator_address": "0gvaloper16e0n8mx4sslxd5dv5kujlfh3t8ttqzzy7cnldn",
+        "account_address": "0g16e0n8mx4sslxd5dv5kujlfh3t8ttqzzyajzrcw",
+        "evm_address": "0xd65f33ecd5843e66d1aca5b92fa6f159d6b00844"
+    },
+    {
+        "moniker": "Nofena99",
+        "operator_address": "0gvaloper1mq6tj4vjcwenzxv4g6wdfv2majr97256pskrcr",
+        "account_address": "0g1mq6tj4vjcwenzxv4g6wdfv2majr97256z68ld7",
+        "evm_address": "0xd834b95592c3b3311995469cd4b15bec865f2a9a"
+    },
+    {
+        "moniker": "Blockdaemon",
+        "operator_address": "0gvaloper1m9m6vq0gynrhqz2a8qkumeskdzm4u2pc53074n",
+        "account_address": "0g1m9m6vq0gynrhqz2a8qkumeskdzm4u2pchm7zqw",
+        "evm_address": "0xd977a601e824c770095d382dcde61668b75e2838"
+    },
+    {
+        "moniker": "zStarkw",
+        "operator_address": "0gvaloper1m88a2xv4glxtwvasy85zytedsfxc688f57utse",
+        "account_address": "0g1m88a2xv4glxtwvasy85zytedsfxc688fh5dh9y",
+        "evm_address": "0xd9cfd5199547ccb733b021e8222f2d824d8d1ce9"
+    },
+    {
+        "moniker": "coinsspor",
+        "operator_address": "0gvaloper1mse5vdznzlutzyr902hqmvm2lv754j4qcqy6y7",
+        "account_address": "0g1mse5vdznzlutzyr902hqmvm2lv754j4qm24x3r",
+        "evm_address": "0xdc3346345317f8b110657aae0db36afb3d4acaa0"
+    },
+    {
+        "moniker": "Tuttici",
+        "operator_address": "0gvaloper1mnre79ac494nm2v6rg29c6rhgak7kmf0aql8tg",
+        "account_address": "0g1mnre79ac494nm2v6rg29c6rhgak7kmf072wm74",
+        "evm_address": "0xdcc79f17b8a96b3da99a1a145c6877476deb6d2f"
+    },
+    {
+        "moniker": "CuanBersama",
+        "operator_address": "0gvaloper1mewjee2dpj4vcnpf3z8eg04gzn7vfq7xvcqq8z",
+        "account_address": "0g1mewjee2dpj4vcnpf3z8eg04gzn7vfq7x0j3ujl",
+        "evm_address": "0xde5d2ce54d0caacc4c29888f943ea814fcc483c6"
+    },
+    {
+        "moniker": "Fertal",
+        "operator_address": "0gvaloper1uy0lsdxweneqyxdeyg0xeccmvhuzkmavcxdsf3",
+        "account_address": "0g1uy0lsdxweneqyxdeyg0xeccmvhuzkmavmvuvuv",
+        "evm_address": "0xe11ff834ceccf20219b9221e6ce31b65f82b6fac"
+    },
+    {
+        "moniker": "CryptoBlue",
+        "operator_address": "0gvaloper1u8lhvw0d00glv09vukgems0rkwj2zv2pr427mv",
+        "account_address": "0g1u8lhvw0d00glv09vukgems0rkwj2zv2pqlmzw3",
+        "evm_address": "0xe1ff7639ed7bd1f63cace5919dc1e3b3a4a13141"
+    },
+    {
+        "moniker": "tommyz",
+        "operator_address": "0gvaloper1udag3nmsmt7u33semve09fm3n870cxekxcfan6",
+        "account_address": "0g1udag3nmsmt7u33semve09fm3n870cxek9jcpx8",
+        "evm_address": "0xe37a88cf70dafdc8c619db32f2a77199fcfc1b36"
+    },
+    {
+        "moniker": "Her3rish",
+        "operator_address": "0gvaloper1usz8fep06va2lxupttdpdwda627pjz35cfxtq3",
+        "account_address": "0g1usz8fep06va2lxupttdpdwda627pjz35mrhh4v",
+        "evm_address": "0xe40474e42fd33aaf9b815ada16b9bdd2bc190a34"
+    },
+    {
+        "moniker": "J\u2022Node",
+        "operator_address": "0gvaloper1arf2rfrsx4pu9kpzxj06ydces6ptn8jwvth73n",
+        "account_address": "0g1arf2rfrsx4pu9kpzxj06ydces6ptn8jw0pxzyw",
+        "evm_address": "0xe8d2a1a4703543c2d822349fa237198682b99e4e"
+    },
+    {
+        "moniker": "MurphyNode",
+        "operator_address": "0gvaloper1ayxkat067ec55cl2s0pcnpd47rhfn3lw7u9ln9",
+        "account_address": "0g1ayxkat067ec55cl2s0pcnpd47rhfn3lwak5rxc",
+        "evm_address": "0xe90d6eadfaf6714a63ea83c38985b5f0ee99c7ee"
+    },
+    {
+        "moniker": "deptraikhoaito",
+        "operator_address": "0gvaloper1afy36mmxlspheedpp2tdehuk7cxgvcaf927hvw",
+        "account_address": "0g1afy36mmxlspheedpp2tdehuk7cxgvcafxq0ten",
+        "evm_address": "0xea491d6f66fc037ce5a10a96dcdf96f60c8663a9"
+    },
+    {
+        "moniker": "mus56",
+        "operator_address": "0gvaloper1at4gpn47ke7up7yg99mwvtpd0p8ludvn4cw4hs",
+        "account_address": "0g1at4gpn47ke7up7yg99mwvtpd0p8ludvnkjlfzd",
+        "evm_address": "0xeaea80cebeb67dc0f8882976e62c2d784ffe3593"
+    },
+    {
+        "moniker": "janbon",
+        "operator_address": "0gvaloper1a0um2l3fvlmnk6566zg72jrzgdaschvej4z45e",
+        "account_address": "0g1a0um2l3fvlmnk6566zg72jrzgdaschve3lnfpy",
+        "evm_address": "0xebf9b57e2967f73b6a9ad091e54862437b0c5d99"
+    },
+    {
+        "moniker": "yctugsat",
+        "operator_address": "0gvaloper1amkqe7hk7g0masdu6d5a2yjq64q5nqv70g4367",
+        "account_address": "0g1amkqe7hk7g0masdu6d5a2yjq64q5nqv7vzyd0r",
+        "evm_address": "0xeeec0cfaf6f21fbec1bcd369d51240d54149819e"
+    },
+    {
+        "moniker": "AstroStake",
+        "operator_address": "0gvaloper1aax7fz4d904m0ul3e9v3lfq7cdzzw3ka8qk3mr",
+        "account_address": "0g1aax7fz4d904m0ul3e9v3lfq7cdzzw3kay28dw7",
+        "evm_address": "0xef4de48aad2bebb7f3f1c9591fa41ec3442746dd"
+    },
+    {
+        "moniker": "tailnode",
+        "operator_address": "0gvaloper1al48wu5mn75ex9x5snelzssw9tvkj6tk4f8nfn",
+        "account_address": "0g1al48wu5mn75ex9x5snelzssw9tvkj6tkkrk0uw",
+        "evm_address": "0xefea77729b9fa99314d484f3f1420e2ad9696976"
+    },
+    {
+        "moniker": "Harris",
+        "operator_address": "0gvaloper17gytt9qw0r7twmg5w38xclxc25wjnmm7j95lca",
+        "account_address": "0g17gytt9qw0r7twmg5w38xclxc25wjnmm7309rdq",
+        "evm_address": "0xf208b5940e78fcb76d14744e6c7cd8551d29ef7e"
+    },
+    {
+        "moniker": "BlackIce [Restored]",
+        "operator_address": "0gvaloper1725e8pt8j4dejn9nh9ylmj3r0q34em554hkgyp",
+        "account_address": "0g1725e8pt8j4dejn9nh9ylmj3r0q34em55ka853u",
+        "evm_address": "0xf2a9938567955b994cb3b949fdca2378235cee94"
+    },
+    {
+        "moniker": "KALElist",
+        "operator_address": "0gvaloper17t4v4p5p5svygyvllz4vl993v09qvjvtamv2hv",
+        "account_address": "0g17t4v4p5p5svygyvllz4vl993v09qvjvt73akz3",
+        "evm_address": "0xf2eaca8681a41844119ff8aacf94b163ca06498b"
+    },
+    {
+        "moniker": "BANGCODE",
+        "operator_address": "0gvaloper17vtu6000j5wpjancu3vk2cd3cnplqjdnn4rrfn",
+        "account_address": "0g17vtu6000j5wpjancu3vk2cd3cnplqjdnsljluw",
+        "evm_address": "0xf317cd3def951c197678e4596561b1c4c3f049b3"
+    },
+    {
+        "moniker": "DocKhachHanh",
+        "operator_address": "0gvaloper170v0ev43p6tsydcmw8t7z0jhmdsnrsjm5fwx0s",
+        "account_address": "0g170v0ev43p6tsydcmw8t7z0jhmdsnrsjmhrl66d",
+        "evm_address": "0xf3d8fcb2b10e9702371b71d7e13e57db6131c25b"
+    },
+    {
+        "moniker": "GrichaMVP",
+        "operator_address": "0gvaloper17j3s5wu4gtzvg9xyql6d9wyqjsnh8y4yh79lj2",
+        "account_address": "0g17j3s5wu4gtzvg9xyql6d9wyqjsnh8y4y555r8h",
+        "evm_address": "0xf4a30a3b9542c4c414c407f4d2b88094277392a4"
+    },
+    {
+        "moniker": "Lilagriar",
+        "operator_address": "0gvaloper175gwk6f70sgxkqpghw75002xmprta48ww5509a",
+        "account_address": "0g175gwk6f70sgxkqpghw75002xmprta48wd79nsq",
+        "evm_address": "0xf510eb693e7c106b0028bbbd47bd46d846bed4ee"
+    },
+    {
+        "moniker": "0g-GET",
+        "operator_address": "0gvaloper1lq0ljr8lq0g29d9j5648vrv2r6n25dgm2ka34k",
+        "account_address": "0g1lq0ljr8lq0g29d9j5648vrv2r6n25dgmfuvdqt",
+        "evm_address": "0xf81ff90cff03d0a2b4b2a6aa760d8a1ea6aa351b"
+    },
+    {
+        "moniker": "LexisNexis",
+        "operator_address": "0gvaloper1lvwsk7dnz567dmht9zw2d5g4dx4gj5qs79ffy4",
+        "account_address": "0g1lvwsk7dnz567dmht9zw2d5g4dx4gj5qsa0c43g",
+        "evm_address": "0xfb1d0b79b31535e6eeeb289ca6d11569aa895010"
+    },
+    {
+        "moniker": "SHABLYA",
+        "operator_address": "0gvaloper1ld75qrdxr7yqvg5775y2zx9qvspee2wjy7dry0",
+        "account_address": "0g1ld75qrdxr7yqvg5775y2zx9qvspee2wj85ul3j",
+        "evm_address": "0xfb7d400da61f8806229ef508a118a064039ca9d2"
+    },
+    {
+        "moniker": "Technova",
+        "operator_address": "0gvaloper1l5xnlszwsl08p60wfmppnu0gfda5eru3edltva",
+        "account_address": "0g1l5xnlszwsl08p60wfmppnu0gfda5eru368wheq",
+        "evm_address": "0xfd0d3fc04e87de70e9ee4ec219f1e84b7b4c8f91"
+    },
+    {
+        "moniker": "YashParikh",
+        "operator_address": "0gvaloper1l4d00yv5zekmywsnxs7rwjctzfpuukjufxlhvn",
+        "account_address": "0g1l4d00yv5zekmywsnxs7rwjctzfpuukju2vwtew",
+        "evm_address": "0xfd5af79194166db23a13343c374b0b1243ce5a5c"
+    },
+    {
+        "moniker": "georgeinsolana",
+        "operator_address": "0gvaloper1lcptchl9uxeamyhj35yrnw587xca22wfn7u0mz",
+        "account_address": "0g1lcptchl9uxeamyhj35yrnw587xca22wfs5dnwl",
+        "evm_address": "0xfe02bc5fe5e1b3dd92f28d0839ba87f1b1d529c9"
+    }
+]
